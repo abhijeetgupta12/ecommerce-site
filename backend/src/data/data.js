@@ -1,0 +1,60 @@
+const data = {
+  products: [
+    {
+      _id: 1,
+      name: "Tshirt1",
+      image: "./images/d1.jpg",
+      price: 60,
+      brand: " Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: 2,
+      name: "Tshirt2",
+      image: "./images/d1.jpg",
+      price: 60,
+      brand: " Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: 3,
+      name: "Tshirt3",
+      image: "./images/d1.jpg",
+      price: 60,
+      brand: " Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: 4,
+      name: "Tshirt4",
+      image: "./images/d1.jpg",
+      price: 60,
+      brand: " Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: 5,
+      name: "Tshirt5",
+      image: "./images/d1.jpg",
+      price: 60,
+      brand: " Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: 6,
+      name: "Tshirt6",
+      image: "./images/d1.jpg",
+      price: 60,
+      brand: " Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+  ],
+};
+
+module.exports = data;
